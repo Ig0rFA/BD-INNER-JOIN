@@ -17,7 +17,7 @@ Atividades solicitadas em Banco de Dados
 ![exer3](https://github.com/Ig0rFA/BD-INNER-JOIN/blob/main/Ex%20BD%20INNERJOIN/CombinacaoTabelas.png)
 
 Resultado:
-![exer4]([https://github.com/Ig0rFA/BD-INNER-JOIN/blob/main/Ex%20BD%20INNERJOIN/CombinacaoTabelas.png](https://github.com/Ig0rFA/BD-INNER-JOIN/blob/main/Ex%20BD%20INNERJOIN/PrintAlunosCidadesInnerJoin.png)https://github.com/Ig0rFA/BD-INNER-JOIN/blob/main/Ex%20BD%20INNERJOIN/PrintAlunosCidadesInnerJoin.png)
+![exer4](https://github.com/Ig0rFA/BD-INNER-JOIN/blob/main/Ex%20BD%20INNERJOIN/PrintAlunosCidadesInnerJoin.png)
 
 *Aqui se encontra o link para acessar o arquivo SQL.* 
 
